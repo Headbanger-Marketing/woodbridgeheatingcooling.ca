@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /thank-you/
+Allow: /
+
+User-agent: GPTBot
+Disallow: /thank-you/
+Allow: /
+User-agent: OAI-SearchBot
+Disallow: /thank-you/
+Allow: /
+User-agent: ClaudeBot
+Disallow: /thank-you/
+Allow: /
+User-agent: PerplexityBot
+Disallow: /thank-you/
+Allow: /
+User-agent: Google-Extended
+Disallow: /thank-you/
+Allow: /
+User-agent: CCBot
+Disallow: /thank-you/
+Allow: /
+User-agent: Applebot-Extended
+Disallow: /thank-you/
+Allow: /
+
+Sitemap: https://woodbridgeheatingcooling.ca/sitemap-index.xml
